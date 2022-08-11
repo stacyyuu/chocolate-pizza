@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 61%;
+    width: 60%;
     margin: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -45,7 +45,7 @@ a:link {
 }
 
 ul {
-  margin-left: 580px;
+  margin-left: 575px;
   margin-top: 60px;
 }
 
@@ -62,7 +62,7 @@ footer {
   height: 100px;
 }
 
-#recipe{
+/* #recipe{
   font-family: serif;
   text-indent: 30px;
 }
@@ -74,5 +74,5 @@ footer {
   color: black;
   padding-left: 20px;
   padding-right: 20px;
-}
+} */
 
