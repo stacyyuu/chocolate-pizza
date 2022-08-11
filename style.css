@@ -73,6 +73,10 @@ footer {
   float: right;
 }
 
+#date {
+  font-size: 13px;
+}
+
 #pizza {
   width: 100%;
 }
@@ -116,6 +120,7 @@ div > div#list2 {
 #info {
   display: flex;
 }
+
 
 #small {
   display: flex;
