@@ -61,3 +61,18 @@ footer {
   width: 100%;
   height: 100px;
 }
+
+#recipe{
+  font-family: serif;
+  text-indent: 30px;
+}
+
+.text-block{
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
