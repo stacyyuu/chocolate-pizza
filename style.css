@@ -1,1 +1,63 @@
+html, body { height: 100%;}
 
+body > footer {
+  position: sticky;
+  top: 100vh;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 61%;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#logo {
+  float: left;
+  height: 55px;
+  width: 55px;
+}
+
+nav {
+  display: flex;
+}
+
+#title {
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 45px;
+}
+
+li {
+  display: inline-block;
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+  color: gray;
+}
+
+#date {
+  color: gray;
+}
+
+ul {
+  margin-left: 580px;
+  margin-top: 60px;
+}
+
+footer {
+  text-align: center;
+}
+
+#print {
+  float: right;
+}
+
+#hr {
+  width: 100%;
+  height: 100px;
+}
