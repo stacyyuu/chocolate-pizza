@@ -25,15 +25,16 @@ body {
 }
 
 div > div#head > h1 {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Pacifico', cursive;
   font-style: italic;
-  font-size: 35px;
-  margin-bottom: -30px;
+  font-size: 30px;
+  margin-bottom: -40px;
 }
 
 div > div#head > h6 {
   font-family: 'Courier New', Courier, monospace;
   font-size: 13px;
+  color: gray;
 }
 
 #title {
